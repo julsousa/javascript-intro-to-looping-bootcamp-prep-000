@@ -11,6 +11,7 @@ function forLoop(array) {
 
 function whileLoop(array){
   while (whileLoop()){
+    let n = 
   }
   return array
 }
