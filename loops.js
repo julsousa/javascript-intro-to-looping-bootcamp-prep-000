@@ -10,5 +10,7 @@ function forLoop(array) {
 }
 
 function whileLoop(array){
-  
+  while (whileLoop()){
+  }
+  return array
 }
