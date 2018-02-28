@@ -15,4 +15,5 @@ function whileLoop(n){
   while (countdown > 0) {
     return n
   }
+  return "done";
 }
