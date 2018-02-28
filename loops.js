@@ -9,10 +9,10 @@ function forLoop(array) {
   return array
 }
 
-function whileLoop(array){
+function whileLoop(n){
   let n = 4;
   
   while (whileLoop > 0) {
-    return array
+    return n
   }
 }
