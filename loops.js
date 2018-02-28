@@ -11,7 +11,7 @@ function forLoop(array) {
 
 function whileLoop(array){
   while (whileLoop()){
-    let n = 
+    let n = 4
   }
   return array
 }
